@@ -6705,15 +6705,15 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-sIQMDLF5B8 {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #4f1d74;
 }
 .cid-sIQMDLF5B8 .title {
   padding-bottom: 2.5rem;
 }
 .cid-sIQMDLF5B8 .mbr-text {
-  color: #767676;
+  color: #ffffff;
   margin: 0;
   padding-top: 0.5rem;
 }
@@ -6738,6 +6738,9 @@ section.lazy-placeholder:after {
   .cid-sIQMDLF5B8 .iconfont-wrapper {
     display: none;
   }
+}
+.cid-sIQMDLF5B8 H5 {
+  color: #ffffff;
 }
 .cid-stEKoGQELj {
   padding-top: 30px;
