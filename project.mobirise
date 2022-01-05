@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Website",
-    "currentPage": "index.html",
+    "currentPage": "thermostat.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -61,8 +61,8 @@
   "pages": {
     "lighting.html": {
       "settings": {
-        "meta_descr": "Control your lights with House-mate.",
-        "title": "House-mate | Lighting",
+        "meta_descr": "\"Hey Siri turn on the kitchen lights\".  Smarten your existing lighting by integrating it into the Apple HomeKit environment with House-mate.",
+        "title": "House-mate Lighting",
         "order": 2
       },
       "components": [
@@ -736,8 +736,8 @@
     },
     "blinds.html": {
       "settings": {
-        "meta_descr": "Control your Blinds with Housemate.",
-        "title": "House-mate | Blinds",
+        "meta_descr": "\"Hey Siri close the bedroom blinds\".  Smarten your motorised blinds by integrating them into the Apple HomeKit environment with House-mate.",
+        "title": "House-mate Blinds",
         "order": 4
       },
       "components": [
@@ -1411,8 +1411,8 @@
     },
     "irrigation.html": {
       "settings": {
-        "meta_descr": "Control your Irrigation with House-mate",
-        "title": "House-mate | Irrigation",
+        "meta_descr": "\"Hey Siri water the back lawn\".  Smarten your irrigation by integrating it into the Apple HomeKit environment with House-mate.",
+        "title": "House-mate Irrigation",
         "order": 6
       },
       "components": [
@@ -2061,8 +2061,8 @@
     },
     "security.html": {
       "settings": {
-        "meta_descr": "Control your security system with House-mate",
-        "title": "House-mate | Security",
+        "meta_descr": "Smarten your existing alarm and security system by integrating it into the Apple HomeKit environment with House-mate.",
+        "title": "House-mate Security",
         "order": 5
       },
       "components": [
@@ -3293,8 +3293,8 @@
     },
     "index.html": {
       "settings": {
-        "title": "House-mate | House-mate",
-        "meta_descr": "Home Page",
+        "title": "House-mate Home",
+        "meta_descr": "Simple and affordable home automation. Let us show you how centralised control using the Apple HomeKit environment can change the way you live. Operate your home from anywhere for optimal comfort, security, and peace of mind.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -4068,8 +4068,8 @@
     },
     "power.html": {
       "settings": {
-        "meta_descr": "Control your power points with House-mate.",
-        "title": "House-mate | Power Points",
+        "meta_descr": "\"Hey Siri turn on the bedroom fan\".  Smarten any power point in your home by integrating it into the Apple HomeKit environment with House-mate.",
+        "title": "House-mate Power Points",
         "order": 8
       },
       "components": [
@@ -4743,8 +4743,8 @@
     },
     "cbus.html": {
       "settings": {
-        "meta_descr": "Make your CBUS system smart",
-        "title": "House-mate | CBUS",
+        "meta_descr": "Smarten your existing CBUS installation by integrating it into the Apple HomeKit environment with House-mate.",
+        "title": "House-mate CBUS",
         "order": 10
       },
       "components": [
@@ -5387,7 +5387,7 @@
     "contact.html": {
       "settings": {
         "meta_descr": "Contact Us",
-        "title": "House-mate | Contact",
+        "title": "House-mate Contact",
         "order": 14
       },
       "components": [
@@ -6005,8 +6005,8 @@
     },
     "faq.html": {
       "settings": {
-        "meta_descr": "Frequently Asked Questions",
-        "title": "House-mate | FAQ",
+        "meta_descr": "Frequently Asked Questions about integrating your home into Apple Homekit or Google Home environments.",
+        "title": "House-mate FAQs",
         "order": 15
       },
       "components": [
@@ -6610,8 +6610,8 @@
     },
     "thermostat.html": {
       "settings": {
-        "meta_descr": "Control your smart Thermostat with House-mate",
-        "title": "House-mate | Thermostat",
+        "meta_descr": "\"Hey Siri set the thermostat to 24 degrees\".  Smarten your thermostat by integrating it into the Apple HomeKit environment with House-mate.",
+        "title": "House-mate Thermostat",
         "order": 3
       },
       "components": [
@@ -7285,8 +7285,8 @@
     },
     "sensors.html": {
       "settings": {
-        "meta_descr": "Determine if your devices are on your network",
-        "title": "House-mate | Network Sensors",
+        "meta_descr": "Determine if your devices are on your network and integrate them into Apple Homekit environment.",
+        "title": "House-mate Network Sensors",
         "order": 12
       },
       "components": [
@@ -7928,8 +7928,8 @@
     },
     "garage.html": {
       "settings": {
-        "meta_descr": "Control your security system with House-mate",
-        "title": "House-mate | Garage Door",
+        "meta_descr": "\"Hey Siri open the garage door\".  Smarten your garage door by integrating it into the Apple HomeKit environment with House-mate.",
+        "title": "House-mate Garage Door",
         "order": 7
       },
       "components": [
@@ -8542,8 +8542,8 @@
     },
     "remote.html": {
       "settings": {
-        "meta_descr": "Control your remote control with House-mate.",
-        "title": "House-mate | Remote Blaster",
+        "meta_descr": "\"Hey Siri turn on Foxtel\".  Smarten any remote contorl in your home by integrating it into the Apple HomeKit environment with House-mate.",
+        "title": "House-mate Remote Blaster",
         "order": 11
       },
       "components": [
@@ -9219,7 +9219,7 @@
     "cases.html": {
       "settings": {
         "meta_descr": "Case studies from completed installations",
-        "title": "House-mate | Case Studies",
+        "title": "House-mate Case Studies",
         "order": 13
       },
       "components": [
@@ -9923,7 +9923,7 @@
     "terms.html": {
       "settings": {
         "meta_descr": "Terms and Conditions",
-        "title": "House-mate | Terms and Conditions",
+        "title": "House-mate Terms and Conditions",
         "order": 16
       },
       "components": [
@@ -10528,7 +10528,7 @@
     "warranty.html": {
       "settings": {
         "meta_descr": "Warranty",
-        "title": "House-mate | Warranty",
+        "title": "House-mate Warranty",
         "order": 17
       },
       "components": [
@@ -11132,8 +11132,8 @@
     },
     "pool.html": {
       "settings": {
-        "meta_descr": "Control your swimming pool with House-mate",
-        "title": "House-mate | Swimming Pools",
+        "meta_descr": "Smarten your pool and spa by integrating them into the Apple HomeKit environment with House-mate.",
+        "title": "House-mate Pool and Spa",
         "order": 9
       },
       "components": [
