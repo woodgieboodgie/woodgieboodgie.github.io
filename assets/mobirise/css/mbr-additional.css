@@ -10524,20 +10524,6 @@ section.lazy-placeholder:after {
 .cid-sTlfblOQhZ .mbr-text {
   color: #767676;
 }
-.cid-sTlfbnpOeQ {
-  background: #34164b;
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background: linear-gradient(0deg, #34164b, #ffffff);
-}
-.cid-sTlfbnpOeQ .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-sTlfbnpOeQ .video-block {
-    width: 100% !important;
-  }
-}
 .cid-sTlfboGB1k {
   padding-top: 30px;
   padding-bottom: 15px;
