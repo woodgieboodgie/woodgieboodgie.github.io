@@ -2,13 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <!--  created with sitemap generator https://octopus.do  -->
 
-    <url>
-        <loc>https://house-mate.com.au</loc>
-        <lastmod>2022-11-01</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
+       <url>
         <loc>https://house-mate.com.au/index.html</loc>
         <lastmod>2022-11-01</lastmod>
         <changefreq>always</changefreq>
