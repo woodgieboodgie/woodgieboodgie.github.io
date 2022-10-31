@@ -1,106 +1,137 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-<url>
-  <loc>https://house-mate.com.au/index.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/power.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/lighting.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/blinds.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/irrigation.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/thermostat.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/security.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/garage.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/pool.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/remote.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/cbus.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/sensors.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/contact.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/installation.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/faq.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/warranty.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://house-mate.com.au/pros-and-cons-of-smart-blinds.html</loc>
-  <lastmod>2022-05-09T00:04:00+00:00</lastmod>
-<changefreq>daily</changefreq>
-  <priority>0.80</priority>
-</url>
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
 
-
+    <url>
+        <loc>https://house-mate.com.au</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/index.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/power.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/lighting.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/blinds.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/irrigation.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/thermostat.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/security.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/garage.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/pool.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/remote.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/cbus.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/sensors.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/installation.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/faq.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/warranty.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/privacy.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/contact.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/pros-and-cons-of-smart-plugs.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/pros-and-cons-of-smart-lighting.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/pros-and-cons-of-smart-blinds.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://house-mate.com.au/pros-and-cons-of-smart-irrigation.html</loc>
+        <lastmod>2022-11-01</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
