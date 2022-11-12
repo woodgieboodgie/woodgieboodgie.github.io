@@ -1,22 +1,75 @@
 <html>
   <head>
-    <title>Speakable markup example</title>
-    <meta name="description" content="This page is all about the quick brown fox" />
+    <title>House-Mate Automation</title>
     <script type="application/ld+json">
     {
-     "@context": "https://schema.org/",
-     "@type": "WebPage",
-     "name": "Quick Brown Fox",
-     "speakable":
-     {
-      "@type": "SpeakableSpecification",
-      "xPath": [
-        "/html/head/title",
-        "/html/head/meta[@name='description']/@content"
-        ]
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "image": [
+        "https://example.com/photos/1x1/photo.jpg",
+        "https://example.com/photos/4x3/photo.jpg",
+        "https://example.com/photos/16x9/photo.jpg"
+       ],
+      "name": "House-Mate Automation",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1/257 Auburn Road",
+        "addressLocality": "Hawthorn",
+        "addressRegion": "VIC",
+        "postalCode": "3182",
+        "addressCountry": "AU"
       },
-     "url": "http://www.quickbrownfox_example.com/quick-brown-fox"
-     }
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Lillian Ruiz"
+        }
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -37.82914, 
+        "longitude": 145.04415
+      },
+      "url": "http://house-mate.com.au/",
+      "telephone": "+61390003555",
+      "servesCuisine": "American",
+      "priceRange": "$$$",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+		"Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        },
+       
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "09:00",
+          "closes": "13:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Sunday",
+          "opens": "09:00",
+          "closes": "13:00"
+        }
+      ],
+      "menu": "http://www.example.com/menu",
+      "acceptsReservations": "True"
+    }
     </script>
   </head>
   <body>
