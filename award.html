@@ -1,26 +1,22 @@
 <html>
   <head>
-    <title>Award Winners</title>
+    <title>Speakable markup example</title>
+    <meta name="description" content="This page is all about the quick brown fox" />
     <script type="application/ld+json">
     {
-      "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Books",
-        "item": "https://example.com/books"
-      },{
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Science Fiction",
-        "item": "https://example.com/books/sciencefiction"
-      },{
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Award Winners"
-      }]
-    }
+     "@context": "https://schema.org/",
+     "@type": "WebPage",
+     "name": "Quick Brown Fox",
+     "speakable":
+     {
+      "@type": "SpeakableSpecification",
+      "xPath": [
+        "/html/head/title",
+        "/html/head/meta[@name='description']/@content"
+        ]
+      },
+     "url": "http://www.quickbrownfox_example.com/quick-brown-fox"
+     }
     </script>
   </head>
   <body>
