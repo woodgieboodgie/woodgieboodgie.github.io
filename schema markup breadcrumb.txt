@@ -1,0 +1,16 @@
+{
+    "@type": "BreadcrumbList",
+    "@id": "https://house-mate.com.au/#breadcrumb",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "WebPage",
+                "@id": "https://house-mate.com.au/",
+                "url": "https://house-mate.com.au/",
+                "name": "Home"
+            }
+        }
+    ]
+}
