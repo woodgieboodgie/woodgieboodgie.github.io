@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "QAPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How do I use Schema Markup for Q&A?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "To use Schema Markup for Q&A, you should include structured data in your HTML using JSON-LD format. Each Q&A pair consists of a Question with an accepted Answer. You can also allow users to contribute answers through a user-generated content feature on your website."
+                },
+                "suggestedAnswer": [
+                    {
+                        "@type": "Answer",
+                        "text": "Is Schema Markup important for SEO?"
+                    },
+                    {
+                        "@type": "Answer",
+                        "text": "How can I validate my Schema Markup?"
+                    }
+                ]
+            },
+            {
+                "@type": "Question",
+                "name": "Is Schema Markup important for SEO?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, Schema Markup can improve your website's visibility in search results and provide richer snippets. It helps search engines understand the content and context of your page."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I validate my Schema Markup?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You can validate your Schema Markup using Google's Structured Data Testing Tool or other Schema validators. Make sure your markup follows the guidelines for the specific Schema type you're using."
+                }
+            }
+        ]
+    }
+    </script>
+    <title>Schema Markup Q&A Example</title>
+</head>
+<body>
+    <h1>Q&A Section</h1>
+    <div itemscope itemtype="https://schema.org/Question">
+        <h2 itemprop="name">Have a question? Ask below:</h2>
+        <div>
+            <form action="#" method="post">
+                <label for="userQuestion">Your Question:</label>
+                <input type="text" id="userQuestion" name="userQuestion" required>
+                <button type="submit">Ask</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
