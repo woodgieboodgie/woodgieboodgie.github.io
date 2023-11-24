@@ -66,64 +66,116 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  
 </head>
 
+
+
 <script type="application/ld+json">
-   [{
-      "@context": "https://schema.org",
-      "@type": "QAPage",
-      "mainEntity": {
-        "@type": "Question",
-        "name": "CBUS",
-        "text": "Can CBUS be intergated into HomeKit?",
-        "answerCount": 3,
-        "upvoteCount": 26,
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "C-Bus by Schneider Electric is not directly compatible with Apple HomeKit. However, third-party solutions or bridge devices can integrate C-Bus with HomeKit. Compatibility and options can change over time, so call us at HouseMate to get the latest information and available solutions to see if there have been any developments in C-Bus and HomeKit integration.",
-          "upvoteCount": 13,
-          "url": "https://house-mate.com.au/question1#acceptedAnswer"
-          },
-        "suggestedAnswer": [
-          {
-            "@type": "Answer",
-            "text": "CBUS is not natively compatible with Apple HomeKit, however uncertified options exist that can integrate CBUS connected accessories such as lighting and blinds.",
-            "upvoteCount": 12,
-            "url": "https://house-mate.com.au/question1#suggestedAnswer1"
-          }
-        ]
-      }
-    },
-   	{
+   [ {
+    	"@context": "https://schema.org",
+    	"@type": "Webpage",
+    	"@id": "https://house-mate.com.au/cbus.html#webpage",
+    	"url": "https://house-mate.com.au/cbus.html",
+    	"name": "CBUS Automation | CBUS to Homekit Integration | Operate CBUS with Siri",
+    	"description": "Control CBUS connected accessories from anywhere with Apple Home or Siri for optimal convenience, security, and peace of mind.",
+    	"isPartOf": {
+    		"@type": "WebSite",
+    		"@id": "https://house-mate.com.au/#website",
+    		"description": "Control lighting from anywhere for optimal convenience, security, and peace of mind. Contact House-Mate for the best home automation solutions.",
+    		"url": "https://house-mate.com.au/",
+    		"name": "House-Mate Automation",
+    		"inLanguage": "en-US",
+"sameAs":["https://www.twitter.com/HousemateAU/","https://www.instagram.com/housemateautomation/","https://www.facebook.com/HousemateAutomation/"],
+    		"potentialAction": {
+    			"@type": "SearchAction",
+    			"target": {
+    				"@type": "EntryPoint",
+    				"urlTemplate": "https://house-mate.com.au/search?q={search_term_string}"
+    			},
+    			"query-input": "required name=search_term_string"
+    		}
+    	}
+    }]
+</script>
+
+
+<script type="application/ld+json">
+[{
    		"@context": "https://schema.org",
    		"@type": "FAQPage",
    		"mainEntity": [{
    			"@type": "Question",
-   			"name": "✅ Do dimmable lights from CBUS present as a dimmable light within HomeKit?",
+   			"name": "✅ Can CBUS be integrated with Apple Home?",
    			"acceptedAnswer": {
    				"@type": "Answer",
-   				"text": "Yes, provided the circuit is dimmable within CBUS it will present as a dimmable accessory in Homekit.  Hey Siri, set the main room lights to 50%."
+   				"text": "CBUS is not natively compatible with Apple Home, however an additional hub can be placed between CBUS and Homekit which will present all connected accessories in CBUS to Homekit."
    			}
    		},
 
 {
    			"@type": "Question",
-   			"name": "✅ How long does it take to program CBUS into Homekit?",
+   			"name": "✅ Which versions of CBUS can integrate to Homekit?",
    			"acceptedAnswer": {
    				"@type": "Answer",
-   				"text": "Programming time varies depending upon the number of electrical circuits and blinds connected into HomeKit.  Another dependency is the version of CBUS as earlier version require a seperate network interface of which one side connects to CBUS and the other side connects to a wired network (LAN)."
+   				"text": "Earlier versions can communicate via a CNI device, later models such as Wiser2 have an ethernet port already."
    			}
    		},
- {
+
+
+{
    			"@type": "Question",
-   			"name": "✅ What does it cost to integrate CBUS into Homekit?",
+   			"name": "✅ What firmware does CBUS need to be running?",
    			"acceptedAnswer": {
    				"@type": "Answer",
-   				"text": "Prices vary depending upon the size of the CBUS installation and programming required. Indicatively, prices range from $1500 to $6000."
+   				"text": "CBUS Wiser2 can operate on older versions of the firmware.  v4.14.2 was released on 26/06/2023 and introduces a breaking change. Developers are working to resolve this."
    			}
-
    		}]
    	}
    ]
 </script>
+<script type="application/ld+json">
+[{
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "CBUS",
+        "item": "https://house-mate.com.au/cbus.html"
+      },
+{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Lighting",
+        "item": "https://house-mate.com.au/lighting.html"
+      },
+{
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Security",
+        "item": "https://house-mate.com.au/security.html"
+      },
+{
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Irrigation",
+        "item": "https://house-mate.com.au/irrigation.html"
+      },
+{
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Blinds",
+        "item": "https://house-mate.com.au/blinds.html"
+      },
+{
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Thermostat",
+        "item": "https://house-mate.com.au/thermostat.html"
+      }]
+}]
+</script>
+
+
+
 <body>
 
 <!-- Google Tag Manager (noscript) -->
